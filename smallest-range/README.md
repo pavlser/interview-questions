@@ -1,8 +1,8 @@
-# Google Interview Question for Software Engineer
+# Smallest Range - Google Interview Question for Software Engineer
 
-You have k lists of sorted integers. Find the smallest range that includes at least one number from each of the k lists. 
+You have N lists of sorted integers. Find the smallest range that includes at least one number from each of the N lists. 
 
-For example, 
+For example:
 ```
 List 1: [4, 10, 15, 24, 26] 
 List 2: [0, 9, 12, 20] 
