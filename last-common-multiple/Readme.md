@@ -31,7 +31,7 @@ Multiples of 6 are: 6, 12, 18, 24, 30, 36, 42, ...
 
 Common multiples of 4 and 6 are common numbers from both lists: 12, 24, 36, ...
 
-Minimal number is **12**.
+The minimal number is **12**.
 
 
 ## Finding N
@@ -44,7 +44,7 @@ A | B | N | A1 | B1 | LCM(A1, B1)
 2 | 10 | 2 | 4 | 12 | 2
 2 | 10 | 3 | 5 | 13 | -
 
-The finding N is 2.
+The finding N is **2**.
 
 ## LCM in Venn diagramm
 
