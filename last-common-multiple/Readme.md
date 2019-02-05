@@ -48,6 +48,6 @@ The finding N is 2.
 
 ## LCM in Venn diagramm
 
-[![LCM in Venn diagramm](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Symmetrical_5-set_Venn_diagram_LCM_2_3_4_5_7.svg/375px-Symmetrical_5-set_Venn_diagram_LCM_2_3_4_5_7.svg.png)]
+![LCM in Venn diagramm](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Symmetrical_5-set_Venn_diagram_LCM_2_3_4_5_7.svg/375px-Symmetrical_5-set_Venn_diagram_LCM_2_3_4_5_7.svg.png)
 
 
