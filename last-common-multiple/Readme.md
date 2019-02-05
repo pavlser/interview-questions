@@ -9,11 +9,11 @@ Output: Output the positive natural number N such that LCM(A + N, B + N) is mini
 ## Sample
 Input | Output
 ---   | --- 
-4 10  | 2
+4, 10  | 2
 
-Author | Owner | Level | Time limit
+Author | Owner | Level | Time limit (seconds)
 --- | --- | --- | ---
-SEERC 2015 | Sergiu Puscas | Medium | 4 (seconds)
+SEERC 2015 | Sergiu Puscas | Medium | 4
 
 https://mindcoding.ro/pb/lcm
 
