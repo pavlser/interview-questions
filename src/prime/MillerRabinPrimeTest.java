@@ -9,21 +9,20 @@ public class MillerRabinPrimeTest {
 	public static void main(String[] args) {
 		int count = 100;
 		int precision = 1000;
-		
-		BigInteger big = getBigInteger(100);
+		BigInteger bigStart = getBigInteger(count);
 		
 		System.out.println("Calculating " + count 
 			+ " prime numbers with probabilty 1/2^" + precision);
-		System.out.println("Start number:\n" + big + "\n");
+		System.out.println("Start number:\n" + bigStart + "\n");
 		
 		Instant start = Instant.now();
-		BigInteger[] primes = getPrimeBiggerThan(big, count, precision);
+		BigInteger[] primes = getPrimeBiggerThan(bigStart, count, precision);
 		Instant end = Instant.now();
 		System.out.println("Time: " 
 			+ Duration.between(start, end).toString().replace("PT", "")
 			+ "\n");
 
-		BigInteger a = big;
+		BigInteger a = bigStart;
 		for (int i = 0; i < count; i++) {
 			BigInteger p = primes[i];
 			System.out.println(p);
