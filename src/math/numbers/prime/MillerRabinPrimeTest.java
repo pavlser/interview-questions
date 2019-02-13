@@ -1,4 +1,4 @@
-package prime;
+package math.numbers.prime;
 
 import java.math.BigInteger;
 import java.time.Duration;
