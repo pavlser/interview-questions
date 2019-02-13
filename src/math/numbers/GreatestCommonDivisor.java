@@ -11,7 +11,7 @@ public class GreatestCommonDivisor {
 	}
 	
 	public static long find(long a, long b) {
-		return b == 0 ? a : find(b, a % b);		
+		return b == 0 ? a : find(b, a % b);
 	}
 
 }
