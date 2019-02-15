@@ -1,4 +1,4 @@
-# LCM - Last Common Multiple
+# LCM - Least Common Multiple
 
 You are given two natural numbers A and B. Determine the positive natural number N such that the least common multiple of the numbers A + N and B + N is minimal.
 
